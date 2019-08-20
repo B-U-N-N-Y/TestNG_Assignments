@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-20T12:18:24Z" name="Suite" finished-at="2019-08-20T12:18:24Z" duration-ms="63">
+    <groups>
+    </groups>
+    <test started-at="2019-08-20T12:18:24Z" name="Test" finished-at="2019-08-20T12:18:24Z" duration-ms="63">
+      <class name="Test.Cal.Method.NewTest">
+        <test-method is-config="true" signature="makeObjects()[pri:0, instance:Test.Cal.Method.NewTest@20d3d15a]" started-at="2019-08-20T12:18:23Z" name="makeObjects" finished-at="2019-08-20T12:18:24Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makeObjects -->
+        <test-method is-config="true" signature="testMethod()[pri:0, instance:Test.Cal.Method.NewTest@20d3d15a]" started-at="2019-08-20T12:18:24Z" name="testMethod" finished-at="2019-08-20T12:18:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="add()[pri:0, instance:Test.Cal.Method.NewTest@20d3d15a]" started-at="2019-08-20T12:18:24Z" name="add" finished-at="2019-08-20T12:18:24Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method is-config="true" signature="testMethod()[pri:0, instance:Test.Cal.Method.NewTest@20d3d15a]" started-at="2019-08-20T12:18:24Z" name="testMethod" finished-at="2019-08-20T12:18:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="sub()[pri:0, instance:Test.Cal.Method.NewTest@20d3d15a]" started-at="2019-08-20T12:18:24Z" name="sub" finished-at="2019-08-20T12:18:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method is-config="true" signature="testMethod()[pri:0, instance:Test.Cal.Method.NewTest@20d3d15a]" started-at="2019-08-20T12:18:24Z" name="testMethod" finished-at="2019-08-20T12:18:24Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="mul()[pri:1, instance:Test.Cal.Method.NewTest@20d3d15a]" started-at="2019-08-20T12:18:24Z" name="mul" finished-at="2019-08-20T12:18:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method is-config="true" signature="testMethod()[pri:0, instance:Test.Cal.Method.NewTest@20d3d15a]" started-at="2019-08-20T12:18:24Z" name="testMethod" finished-at="2019-08-20T12:18:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method signature="div()[pri:2, instance:Test.Cal.Method.NewTest@20d3d15a]" started-at="2019-08-20T12:18:24Z" name="div" finished-at="2019-08-20T12:18:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method is-config="true" signature="Results()[pri:0, instance:Test.Cal.Method.NewTest@20d3d15a]" started-at="2019-08-20T12:18:24Z" name="Results" finished-at="2019-08-20T12:18:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Results -->
+      </class> <!-- Test.Cal.Method.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
