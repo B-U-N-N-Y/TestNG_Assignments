@@ -20,7 +20,7 @@ public class NewTest {
 
 	}
 
-	@Test(priority = 0)
+	@Test(groups = "increasing",priority = 1)
 	public void add() {
 		String application = "+";
 		double result = op.operation(application);
@@ -32,21 +32,21 @@ public class NewTest {
 		System.out.println("**********Testing Methods**********");
 	}
 
-	@Test
+	@Test(groups = "decreasing",priority = 6)
 	public void sub() {
 		String application = "-";
 		double result = op.operation(application);
 		Assert.assertEquals("Test Failed", 9.0, result);
 	}
 
-	@Test(priority = 1)
+	@Test(groups = "increasing",priority = 1)
 	public void mul() {
 		String application = "*";
 		double result = op.operation(application);
 		Assert.assertEquals("Test Failed", 136.0, result);
 	}
 
-	@Test(priority = 2)
+	@Test(groups = "decreasing",priority = 3)
 	public void div() {
 		String application = "/";
 		double result = op.operation(application);
