@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-21T14:16:31Z" name="Default suite" finished-at="2019-08-21T14:16:31Z" duration-ms="355">
+    <groups>
+    </groups>
+    <test started-at="2019-08-21T14:16:31Z" name="Default test" finished-at="2019-08-21T14:16:31Z" duration-ms="355">
+      <class name="Test_Con.Testing">
+        <test-method is-config="true" signature="testLoadDriver()[pri:0, instance:Test_Con.Testing@214b199c]" started-at="2019-08-21T14:16:30Z" name="testLoadDriver" finished-at="2019-08-21T14:16:31Z" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoadDriver -->
+        <test-method signature="testFetch()[pri:0, instance:Test_Con.Testing@214b199c]" started-at="2019-08-21T14:16:31Z" name="testFetch" finished-at="2019-08-21T14:16:31Z" duration-ms="290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFetch -->
+        <test-method is-config="true" signature="printMessage()[pri:0, instance:Test_Con.Testing@214b199c]" started-at="2019-08-21T14:16:31Z" name="printMessage" finished-at="2019-08-21T14:16:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printMessage -->
+        <test-method is-config="true" signature="Message()[pri:0, instance:Test_Con.Testing@214b199c]" started-at="2019-08-21T14:16:31Z" name="Message" finished-at="2019-08-21T14:16:31Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Message -->
+      </class> <!-- Test_Con.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
